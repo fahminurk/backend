@@ -1,0 +1,1 @@
+{"expenses":[{"id":7,"date":"5-10-2023","name":"makanan","category":"food","nominal":5000},{"id":8,"date":"5-10-2023","name":"pepsi","category":"food","nominal":10000},{"id":9,"date":"5-8-2023","name":"rokok","category":"food","nominal":20000},{"id":10,"date":"5-15-2023","name":"baju","category":"style","nominal":100000}],"counter":{"expenses":11}}
